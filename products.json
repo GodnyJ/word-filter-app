@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mleko"
+        },
+        {
+            "id": 2,
+            "name": "Mąka"
+        },
+        {
+            "id": 3,
+            "name": "Jajka"
+        },
+        {
+            "id": 4,
+            "name": "Cukier"
+        },
+        {
+            "id": 5,
+            "name": "Proszek do pieczenia"
+        },
+        {
+            "id": 6,
+            "name": "Pieczywo"
+        },
+        {
+            "id": 7,
+            "name": "Pomidor"
+        },
+        {
+            "id": 8,
+            "name": "Ogórek"
+        },
+        {
+            "id": 9,
+            "name": "Cebula"
+        },
+        {
+            "id": 10,
+            "name": "Ziemniaki"
+        },
+        {
+            "id": 11,
+            "name": "Masło"
+        },
+        {
+            "id": 12,
+            "name": "Ser"
+        },
+        {
+            "id": 13,
+            "name": "Imbir"
+        }
+
+    ]
+}
